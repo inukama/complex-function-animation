@@ -1,5 +1,8 @@
 # Complex Function Visualiser:
 
+![output_complex](https://github.com/user-attachments/assets/ad885268-0ba2-4603-a317-4db85f300e37)
+
+
 Python script to visualise complex function transformations.
 To change the parameters, edit the variables near the top of the file.
 
